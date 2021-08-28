@@ -1,0 +1,28 @@
+.menu{
+    display:flex ;
+    justify-content: space-between;
+    padding:15px;
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+}
+body{
+    margin:0px;
+    background-color: aliceblue;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+}
+.grid img{
+    border: 2px solid #000000;
+    border-radius: 50px;
+}
+.origami{
+    width: 310px;
+    margin: 25px;
+    padding: 30px;
+    border-radius: 20px;
+    background-color: "azure";
+}
